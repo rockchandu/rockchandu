@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockchandu
+- 👋 Hi, I’m @CHANDAN
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...html,java,javascript,css
 - 💞️ I’m looking to collaborate on ...developers
